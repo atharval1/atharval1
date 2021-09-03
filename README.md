@@ -8,8 +8,6 @@
     Email: atharvalabhasetwar1234@gmail.com
     
 
-<!---
 Focused Computer Science undergrad with complete knowledge of programming language like C++,java.
 I am passionate about coding and Web Development.
 I am excited to learn and quickly adapt to any environment so i looking for opportunities in same area.
---->
