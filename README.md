@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Computer Science Engineering 
 - 💞️ I’m looking for job as a Software Engineer (fresher 2022 batch)
 - 📫 How to reach me 
-    linkedin profile : https://www.linkedin.com/in/atharva-labhasetwar/
-    PortFolio : https://atharval1.github.io/ 
-    Email: atharvalabhasetwar1234@gmail.com
+    -linkedin profile : https://www.linkedin.com/in/atharva-labhasetwar/
+    -PortFolio : https://atharval1.github.io/ 
+    -Email: atharvalabhasetwar1234@gmail.com
     
 
 Focused Computer Science undergrad with complete knowledge of programming language like C++,java.
