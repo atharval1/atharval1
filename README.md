@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-Java | C++ | C | SQL | Full stack web developer | Python | Competitive Programming
+Java | Spring | Spring MVC | Spring Boot | Microservices | Hibernate| Data JPA | C++ | C | MY-SQL | Full stack web developer | HTML| CSS| Bootstrap | React JS |Competitive Programming
 
 ## About :sunglasses:
 Focused Computer Science undergrad with complete knowledge of programming language like C++,java.
@@ -27,6 +27,11 @@ I am excited to learn and quickly adapt to any environment so i looking for oppo
 ## Technologies :fire:
 - C++ / C
 - Java
+- Spring
+- Spring MVC
+- Spring Boot
+- Microservices
+- React js
 - Python
 - HTML & CSS
 - Bootstrap
@@ -49,7 +54,7 @@ I am excited to learn and quickly adapt to any environment so i looking for oppo
 
 
 <a href="https://github.com/atharval1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharval1&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharval1&layout=pie" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=atharval1&&show_icons=true&theme=radical&line_height=27&v=5" alt="Atharva's GitHub Stats" />
