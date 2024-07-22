@@ -25,13 +25,15 @@ I am excited to learn and quickly adapt to any environment so i looking for oppo
 
 
 ## Technologies :fire:
-- C++ / C
 - Java
 - Spring
 - Spring MVC
 - Spring Boot
 - Microservices
+- Hibernate
+- Data JPA
 - React js
+- C++ / C
 - Python
 - HTML & CSS
 - Bootstrap
