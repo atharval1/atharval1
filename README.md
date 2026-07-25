@@ -1,83 +1,71 @@
-# <a href="https://github.com/atharval1">Atharva Labhasetwar</a> :smiley:
+# Atharva Labhasetwar
 
-<a href="https://www.linkedin.com/in/atharva-labhasetwar/">
-  <img align="left" alt="Atharva's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/atharval1">
-  <img align="left" alt="Atharva's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/its_atharva_labhasetwar/">
-  <img align="left" alt="Atharva's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100009436052703">
-  <img align="left" alt="Atharva's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<br/>
-<br/>
-
-Java | Spring | Spring MVC | Spring Boot | Microservices | Hibernate| Data JPA | C++ | C | MY-SQL | Full stack web developer | HTML| CSS| Bootstrap | React JS |Competitive Programming
-
-## About :sunglasses:
-Focused Computer Science undergrad with complete knowledge of programming language like C++,java.
-I am passionate about coding and Web Development.
-I am excited to learn and quickly adapt to any environment so i looking for opportunities in same area.
-
-
-## Technologies :fire:
-- Java
-- Spring
-- Spring MVC
-- Spring Boot
-- Microservices
-- Hibernate
-- Data JPA
-- React js
-- C++ / C
-- Python
-- HTML & CSS
-- Bootstrap
-- Flask
-- SQL & MySQL
-- Competitive Programming
-- Full stack web developer 
-
-*Languages and Tools:*  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-<a href="https://github.com/atharval1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharval1&layout=pie" />
-</a>
-
-<img src="https://github-readme-stats.vercel.app/api?username=atharval1&&show_icons=true&theme=radical&line_height=27&v=5" alt="Atharva's GitHub Stats" />
-
-## How to reach me :📫
-  Email: atharvalabhasetwar1234@gmail.com
-  <br>
-  PortFolio : https://atharval1.github.io/
-  <br>
-  linkedin : https://www.linkedin.com/in/atharva-labhasetwar/
-
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/atharval1/count.svg" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/atharva-labhasetwar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Atharva%20Labhasetwar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/atharval1">
+    <img src="https://img.shields.io/badge/GitHub-atharval1-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://atharval1.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-atharval1.github.io-0A66C2?style=for-the-badge&logo=firefoxbrowser" alt="Portfolio" />
+  </a>
+  <a href="https://www.hackerrank.com/Athrval">
+    <img src="https://img.shields.io/badge/HackerRank-Athrval-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank" />
+  </a>
 </p>
 
+> Verified profile links: GitHub, LinkedIn, Portfolio, and HackerRank are included here. The Instagram profile link could not be confirmed as active, so it has been removed from the main badges.
 
-<div align="center">
+## About Me
 
-### Show some ❤️ by starring some of the repositories!
+Impact-driven Java Full Stack Developer with 4+ years of experience building scalable microservices, secure APIs, and responsive web applications for banking and capital markets platforms.
 
-</div>
+I specialize in Java, Spring Boot, Apache Kafka, Redis, React JS, OAuth2/JWT, and CI/CD automation, with a strong focus on performance, reliability, and enterprise-grade software delivery.
+
+## Skills
+
+### Backend
+
+- Java 21
+- Spring Boot 3.x
+- Spring MVC
+- Spring Security
+- Hibernate / JPA
+- Resilience4j
+- REST APIs
+- Microservices
+
+### Frontend
+
+- React JS
+- HTML / CSS
+- Bootstrap
+- JavaScript
+
+### Databases & Tools
+
+- MySQL / SQL
+- Redis
+- Apache Kafka
+- Git / GitHub
+- CI/CD
+
+## Featured Projects
+
+- RBCCM Capital Markets Platform
+- Patient Monitoring & Alert System
+- Grocery Shop Management System
+- Health Education Microsystem
+- Portfolio Website
+- toDoApp_pythonFlask
+
+## Contact
+
+- Email: atharva.ath12@gmail.com
+- Portfolio: https://atharval1.github.io/
+- LinkedIn: https://www.linkedin.com/in/atharva-labhasetwar/
+- GitHub: https://github.com/atharval1
+- HackerRank: https://www.hackerrank.com/Athrval
+
+Thanks for visiting my profile!
